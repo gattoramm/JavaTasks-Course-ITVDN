@@ -1,4 +1,4 @@
-package Part10.ex8_generics;
+package p2_Essential.Part10.ex8_generics;
 
 class Base {
 }

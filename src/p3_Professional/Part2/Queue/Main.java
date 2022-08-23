@@ -1,4 +1,4 @@
-package Part2.Queue;
+package p3_Professional.Part2.Queue;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

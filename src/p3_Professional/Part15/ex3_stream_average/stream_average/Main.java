@@ -1,4 +1,4 @@
-package Part15.ex3_stream_average.stream_average;
+package p3_Professional.Part15.ex3_stream_average.stream_average;
 
 import java.util.ArrayList;
 import java.util.Comparator;

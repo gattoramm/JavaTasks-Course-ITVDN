@@ -1,4 +1,4 @@
-package Part10.ex10_generics;
+package p2_Essential.Part10.ex10_generics;
 
 interface Interface1 {}
 

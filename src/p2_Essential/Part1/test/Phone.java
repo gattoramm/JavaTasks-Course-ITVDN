@@ -1,4 +1,4 @@
-package Part1.test;
+package p2_Essential.Part1.test;
 
 public class Phone {
 }

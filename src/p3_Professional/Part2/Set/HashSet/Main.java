@@ -1,4 +1,4 @@
-package Part2.Set.HashSet;
+package p3_Professional.Part2.Set.HashSet;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

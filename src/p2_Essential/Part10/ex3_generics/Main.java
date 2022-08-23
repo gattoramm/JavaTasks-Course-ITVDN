@@ -1,4 +1,4 @@
-package Part10.ex3_generics;
+package p2_Essential.Part10.ex3_generics;
 
 class MyGenerics<TYPE1, TYPE2> {
     public TYPE1 variable1;

@@ -1,4 +1,4 @@
-package Part10.ex1;
+package p2_Essential.Part10.ex1;
 
 import java.util.ArrayList;
 import java.util.List;

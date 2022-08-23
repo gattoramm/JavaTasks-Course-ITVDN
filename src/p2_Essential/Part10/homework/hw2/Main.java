@@ -1,4 +1,4 @@
-package Part10.homework.hw2;
+package p2_Essential.Part10.homework.hw2;
 
 /**
  * Создайте класс MyList<T>. Реализуйте в простейшем приближении возможность использования его

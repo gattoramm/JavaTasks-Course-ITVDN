@@ -1,4 +1,4 @@
-package Part5;
+package p3_Professional.Part5;
 
 public class StringPool {
     public static void main(String[] args) {

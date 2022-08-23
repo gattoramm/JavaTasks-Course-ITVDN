@@ -1,4 +1,4 @@
-package Part15.simple.stream;
+package p3_Professional.Part15.simple.stream;
 
 import java.util.Arrays;
 import java.util.List;

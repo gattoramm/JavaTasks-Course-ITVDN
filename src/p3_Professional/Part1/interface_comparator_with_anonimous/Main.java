@@ -1,4 +1,4 @@
-package Part1.interface_comparator_with_anonimous;
+package p3_Professional.Part1.interface_comparator_with_anonimous;
 
 import java.util.Arrays;
 import java.util.Comparator;

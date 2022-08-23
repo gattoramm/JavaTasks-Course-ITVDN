@@ -1,4 +1,4 @@
-package Part2.Set.TreeSet_primitives;
+package p3_Professional.Part2.Set.TreeSet_primitives;
 
 import java.util.NavigableSet;
 import java.util.TreeSet;

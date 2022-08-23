@@ -1,4 +1,4 @@
-package Part15.ex1_lambdaExpression.withoutLambdaExpression;
+package p3_Professional.Part15.ex1_lambdaExpression.withoutLambdaExpression;
 
 public class Main {
     public static void fire(Object sender) {

@@ -1,4 +1,4 @@
-package Part1.iterator;
+package p3_Professional.Part1.iterator;
 
 public class ForEachWithPrimitives {
     public static void main(String[] args) {

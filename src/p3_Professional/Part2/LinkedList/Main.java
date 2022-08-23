@@ -1,4 +1,4 @@
-package Part2.LinkedList;
+package p3_Professional.Part2.LinkedList;
 
 import java.util.ArrayList;
 import java.util.Date;

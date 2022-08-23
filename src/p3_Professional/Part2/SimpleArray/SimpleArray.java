@@ -1,4 +1,4 @@
-package Part2.SimpleArray;
+package p3_Professional.Part2.SimpleArray;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Part1;
+package p3_Professional.Part1;
 
 import java.util.ArrayList;
 import java.util.Collection;

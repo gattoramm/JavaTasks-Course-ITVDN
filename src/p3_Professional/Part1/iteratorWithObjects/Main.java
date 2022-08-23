@@ -1,4 +1,4 @@
-package Part1.iteratorWithObjects;
+package p3_Professional.Part1.iteratorWithObjects;
 
 import java.util.ArrayList;
 import java.util.Iterator;

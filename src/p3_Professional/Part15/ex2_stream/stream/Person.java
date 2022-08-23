@@ -1,4 +1,4 @@
-package Part15.ex2_stream.stream;
+package p3_Professional.Part15.ex2_stream.stream;
 
 public class Person {
     private String name;

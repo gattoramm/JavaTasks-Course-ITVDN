@@ -1,4 +1,4 @@
-package Part15.simple.lambda;
+package p3_Professional.Part15.simple.lambda;
 
 public class Main {
 //    static int i = 20;

@@ -1,4 +1,4 @@
-package Part2.ArrayList_reverse;
+package p3_Professional.Part2.ArrayList_reverse;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

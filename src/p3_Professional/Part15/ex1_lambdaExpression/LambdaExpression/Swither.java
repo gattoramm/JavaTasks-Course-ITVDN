@@ -1,4 +1,4 @@
-package Part15.ex1_lambdaExpression.LambdaExpression;
+package p3_Professional.Part15.ex1_lambdaExpression.LambdaExpression;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package Part2.Dequeue;
+package p3_Professional.Part2.Dequeue;
 
 import java.util.ArrayDeque;
 

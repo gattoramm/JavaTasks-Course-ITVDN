@@ -1,4 +1,4 @@
-package Part10.ex7_generics;
+package p2_Essential.Part10.ex7_generics;
 
 class MyClass<T> {
     public T add(T a, T b) {

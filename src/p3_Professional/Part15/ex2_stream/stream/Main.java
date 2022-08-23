@@ -1,4 +1,4 @@
-package Part15.ex2_stream.stream;
+package p3_Professional.Part15.ex2_stream.stream;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -9,11 +9,11 @@ public class Main {
     public static void main(String[] args) {
         List<Person> persons = new ArrayList<>();
 
-        persons.add(new Person("Сергей", 30));
-        persons.add(new Person("Андрей", 14));
-        persons.add(new Person("Александр", 28));
-        persons.add(new Person("Анна", 8));
-        persons.add(new Person("Евгений", 25));
+        persons.add(new Person("пїЅпїЅпїЅпїЅпїЅпїЅ", 30));
+        persons.add(new Person("пїЅпїЅпїЅпїЅпїЅпїЅ", 14));
+        persons.add(new Person("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ", 28));
+        persons.add(new Person("пїЅпїЅпїЅпїЅ", 8));
+        persons.add(new Person("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ", 25));
 
         persons.stream()
                 .filter(p -> p.getAge() >= 18)

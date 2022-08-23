@@ -1,4 +1,4 @@
-package Part10.Bird;
+package p2_Essential.Part10.Bird;
 
 public class Main {
     public static void main(String[] args) {

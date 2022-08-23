@@ -1,4 +1,4 @@
-package Part1.comparable;
+package p3_Professional.Part1.comparable;
 
 public class Animal implements Comparable<Animal>{
     String breed;

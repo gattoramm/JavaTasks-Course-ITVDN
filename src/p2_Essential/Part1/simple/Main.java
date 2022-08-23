@@ -1,4 +1,4 @@
-package Part1.simple;
+package p2_Essential.Part1.simple;
 
 class A {
     A(int param) {

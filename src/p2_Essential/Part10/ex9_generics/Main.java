@@ -1,4 +1,4 @@
-package Part10.ex9_generics;
+package p2_Essential.Part10.ex9_generics;
 
 // Ограничения параметров типа
 

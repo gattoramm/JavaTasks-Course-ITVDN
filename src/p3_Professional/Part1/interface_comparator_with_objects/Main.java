@@ -1,4 +1,4 @@
-package Part1.interface_comparator_with_objects;
+package p3_Professional.Part1.interface_comparator_with_objects;
 
 import java.util.Arrays;
 

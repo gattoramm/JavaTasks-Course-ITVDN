@@ -1,4 +1,4 @@
-package Part10.ex5_generics;
+package p2_Essential.Part10.ex5_generics;
 
 // Ковариантность обобщений
 

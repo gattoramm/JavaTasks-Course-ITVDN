@@ -1,4 +1,4 @@
-package Part10.ex1.withoutGen;
+package p2_Essential.Part10.ex1.withoutGen;
 
 public class Main {
     public static void main(String[] args) {

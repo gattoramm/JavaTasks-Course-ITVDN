@@ -1,4 +1,4 @@
-package Part2.Queue;
+package p3_Professional.Part2.Queue;
 
 public class SimpleStack {
     private final int maxSize;

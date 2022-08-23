@@ -1,4 +1,4 @@
-package Part10.homework.hw1;
+package p2_Essential.Part10.homework.hw1;
 
 /**
  * Создайте класс MyClass<T>, содержащий статический фабричный метод - T factoryMethod(), который
