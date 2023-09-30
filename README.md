@@ -1,4 +1,4 @@
-### Примеры и задачи с курсов ITVDN Java
+### РљСѓСЂСЃ ITVDN Java
 
 #### Java Essential
 
