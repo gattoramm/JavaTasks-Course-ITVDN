@@ -1,4 +1,5 @@
-.idea/*
-JavaTasks-Course-ITVDN.iml
+.idea
+*.iml
 *.class  
-out/*
+out
+target
