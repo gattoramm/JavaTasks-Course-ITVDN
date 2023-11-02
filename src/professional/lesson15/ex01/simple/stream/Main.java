@@ -1,4 +1,4 @@
-package professional.p15.ex00.simple.stream;
+package professional.lesson15.ex01.simple.stream;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package professional.p15.ex2.stream;
+package professional.lesson15.ex03.stream;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -13,8 +13,6 @@ public class Main {
         persons.add(new Person("Diana", 28));
         persons.add(new Person("Max", 8));
         persons.add(new Person("Ann", 25));
-
-
 
         persons.stream()
                 .filter(p -> p.getAge() >= 18)

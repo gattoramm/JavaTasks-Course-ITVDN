@@ -1,7 +1,6 @@
-package professional.p15.ex1.withlambda;
+package professional.lesson15.ex02.withoutlambda;
 
-
-public class Lamp implements ElectricityConsumer {
+public class Lamp implements ElectricityConsumer{
     private void lightOn() {
         System.out.println("Лампа зажглась");
     }

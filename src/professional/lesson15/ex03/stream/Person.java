@@ -1,4 +1,4 @@
-package professional.p15.ex3.streamAverage;
+package professional.lesson15.ex03.stream;
 
 public class Person {
     private String name;

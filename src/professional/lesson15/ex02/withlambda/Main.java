@@ -1,4 +1,4 @@
-package professional.p15.ex1.withlambda;
+package professional.lesson15.ex02.withlambda;
 
 public class Main {
     public static void fire(Object sender) {
@@ -19,7 +19,7 @@ public class Main {
 
         String message = "Пожар";
 
-        // Анонимный класс
+        // Лямбда выражение
         switcher.addElectricityListener(
                 sender -> System.out.println(message)
         );

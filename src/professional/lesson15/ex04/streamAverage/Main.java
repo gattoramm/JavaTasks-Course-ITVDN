@@ -1,4 +1,4 @@
-package professional.p15.ex3.streamAverage;
+package professional.lesson15.ex04.streamAverage;
 
 import java.util.ArrayList;
 import java.util.List;

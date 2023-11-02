@@ -1,5 +1,4 @@
-package professional.p15.ex1.withlambda;
-
+package professional.lesson15.ex02.withlambda;
 
 import java.util.ArrayList;
 import java.util.List;

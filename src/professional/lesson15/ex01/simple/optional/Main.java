@@ -1,4 +1,4 @@
-package professional.p15.ex00.simple.optional;
+package professional.lesson15.ex01.simple.optional;
 
 import java.util.Optional;
 import java.util.stream.Stream;
