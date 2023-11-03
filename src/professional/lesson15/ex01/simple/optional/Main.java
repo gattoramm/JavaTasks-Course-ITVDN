@@ -17,12 +17,10 @@ public class Main {
         String str;
 
         if (getString().isPresent()) {
-//            str = getString().get();
             str = getString().orElseGet(String::new);
             System.out.println(str);
         }
 
-//        str = getString().orElse(null);
         str = getString().orElseThrow(null);
         Stream.of(str).forEach(System.out::println);
     }

@@ -16,12 +16,9 @@ public class Main {
 
         persons.stream()
                 .filter(p -> p.getAge() >= 18)
-//                .sorted((p1, p2) -> p1.getName().compareTo(p2.getName()))
                 .sorted(Comparator.comparing(Person::getName))
-//                .map(p -> p.getName())
                 .map(Person::getName)
                 .forEach(
-//                        (String name) -> System.out.println(name);
                         System.out::println
                 );
     }
