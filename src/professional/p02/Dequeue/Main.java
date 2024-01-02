@@ -11,7 +11,9 @@ public class Main {
         states.push("England");
 
         String sFirst = states.getFirst();
+        System.out.println(sFirst);
         String sSecond = states.getLast();
+        System.out.println(sSecond);
 
         while (states.peek() != null) {
             System.out.println(states.pop());

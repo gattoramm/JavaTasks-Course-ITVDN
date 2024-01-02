@@ -6,24 +6,25 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Main {
+    private static final int VAL = 100000;
     public static void main(String[] args) {
-        System.out.println(getTimeMsOfInsert(new ArrayList()));
-        System.out.println(getTimeMsOfInsert(new LinkedList()));
+        System.out.println("Вставка в начало " + VAL + " элементов");
+        System.out.println("ArrayList - " + getTimeMsOfInsert(new ArrayList()) + " ms");
+        System.out.println("LinkedList - " + getTimeMsOfInsert(new LinkedList()) + " ms");
     }
 
     public static long getTimeMsOfInsert(List list) {
         Date currentTime = new Date();
-        insert10000(list);
+        insertInEnd(list);
         Date newTime = new Date();
 
         long msDelay = newTime.getTime() - currentTime.getTime();
-        System.out.println("Time = " + msDelay);
         return msDelay;
     }
 
-    public static void insert10000(List list) {
-        for (int i = 0; i < 500000; i++) {
-            list.add(new Object());
+    public static void insertInEnd(List list) {
+        for (int i = 0; i < VAL; i++) {
+            list.add(0, new Object());
         }
     }
 }

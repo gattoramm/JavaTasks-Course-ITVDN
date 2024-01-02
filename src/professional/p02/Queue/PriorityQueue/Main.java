@@ -1,4 +1,4 @@
-package professional.p02.Queue;
+package professional.p02.Queue.PriorityQueue;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -18,10 +18,13 @@ public class Main {
         System.out.println(q);
         q.offer(1);
         q.offer(6);
+        q.offer(-  6);
         System.out.println(q);
 
         System.out.println(q.poll());
+        System.out.println(q);
         System.out.println(q.poll());
+        System.out.println(q);
         System.out.println(q.poll());
         System.out.println(q);
     }

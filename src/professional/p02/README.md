@@ -1,5 +1,15 @@
 ## Java Collection Framework (Collection) [Part_1]
 
+### Примеры
+
+[Пример](SimpleArray/SimpleArray.java) - какие проблемы могут быть с "сырым" типом
+[Пример](SimpleArray/SimpleArray2.java) - методы `ArrayList`
+[Пример](ArrayList/Main.java) - методы `ArrayList`
+[Пример](ArrayList_reverse/Main.java) - методы `ArrayList`
+[Пример](LinkedList/Main.java) - методы `LinkedList`, замеры скорости вставки в `ArrayList` и `LinkedList`
+[Пример](Dequeue/Main.java) - методы `PriorityQueue`
+[Пример](Queue/PriorityQueue/Main.java) - методы `ArrayDeque`
+
 ### Вопросы
 
 * Что такое Collection?
